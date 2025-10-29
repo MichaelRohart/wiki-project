@@ -7,21 +7,21 @@ wetenschap en cultuur tot de moderne tijd. We doorlopen de fases van de wijsbege
 
 Wat we hier zullen zien:
 
-### De Oudheid 
+### [De Oudheid](De_oudheid.md)
     De Prestocraten: De vroege Griekse denkers Thales, Pythagoras en Zeno
     De Grieken Socrates, Plato, Aristoteles
     De Stoïcijnen: Seneca, Epictetus en Marcus Aurelius
 
-### De middeleeuwen
+### [De middeleeuwen](De_Middeleeuwen.md)
     Filosofie binnen het christendom
     Filosofie binnen Islam en Jodendom
     Tijd van Renaissance en de Barok
 
-### De Verlichting 
+### [De Verlichting](De_Verlichting.md) 
     Frankrijk: Voltaire en Rousseau
     Duitsland: Kant
 
-### De 19de Eeuw tot nu
+### [De 19de Eeuw tot nu](De_Negentiende_Eeuw_Tot_Nu.md)
     Fichte
     Hegel
     Marx
