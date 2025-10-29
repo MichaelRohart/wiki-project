@@ -8,7 +8,7 @@ wetenschap en cultuur tot de moderne tijd. We doorlopen de fases van de wijsbege
 Wat we hier zullen zien:
 
 ### [De Oudheid](De_oudheid.md)
-    De Prestocraten: De vroege Griekse denkers Thales, Pythagoras en Zeno
+    De Presocraten: De vroege Griekse denkers Thales, Pythagoras en Zeno
     De Grieken Socrates, Plato, Aristoteles
     De Stoïcijnen: Seneca, Epictetus en Marcus Aurelius
 
