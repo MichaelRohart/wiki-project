@@ -25,7 +25,7 @@ Wat we hier zullen zien:
     Fichte
     Hegel
     Marx
-    Schoppenhauer
     Kierkegaard
     Nietsche
     Arendt
+    Sartre
