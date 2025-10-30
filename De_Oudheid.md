@@ -47,7 +47,7 @@ Seneca, Epictetus en Marcus Aurelius waren de drie grote vertegenwoordigers van 
  (ca. 50 – 135 n.Chr.) werd geboren als slaaf, maar groeide uit tot een invloedrijk filosoof. Hij schreef zelf niets op; zijn leerling Arrianus legde zijn lessen vast in de Discourses en het Encheiridion (Handboekje). Epictetus leerde dat we alleen controle hebben over onze eigen gedachten en daden, niet over externe gebeurtenissen. Door dat onderscheid te erkennen, kunnen we innerlijke vrijheid bereiken. Zijn filosofie draait om zelfdiscipline, verantwoordelijkheid en het loslaten van wat buiten onze macht ligt.
 ### Marcus Aurelius
  (121 – 180 n.Chr.) was Romeins keizer én stoïcijns filosoof. In zijn persoonlijke notities, bekend als Overpeinzingen, reflecteerde hij op zijn plichten, sterfelijkheid en deugdzaam leiderschap. Hij zag het keizerschap als een morele verantwoordelijkheid en gebruikte stoïcijnse principes om kalmte en rechtvaardigheid te bewaren te midden van oorlogen en politieke spanningen. Zijn werk is een tijdloos voorbeeld van hoe filosofie in de praktijk kan worden gebracht, zelfs op het hoogste machtsniveau.
-###fenomenologie
-Fenomenologie is een filosofische stroming die zich richt op de directe ervaring van verschijnselen, zonder voorafgaande theorieën of aannames. Ze onderzoekt hoe dingen aan ons verschijnen in bewustzijn en hoe we betekenis geven aan onze waarneming.
+### Epicurus 
+Epicurus (341–270 v.Chr.) was een Griekse filosoof die geluk zag als het hoogste levensdoel, te bereiken door het vermijden van pijn en het cultiveren van innerlijke rust (ataraxia). Zijn filosofie draait om eenvoud, vriendschap en het loslaten van angst voor goden en de dood.
 
 
